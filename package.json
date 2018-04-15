@@ -1,0 +1,11 @@
+{
+  "name": "sweetiq",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "angela",
+  "license": "ISC"
+}
